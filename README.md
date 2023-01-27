@@ -10,6 +10,6 @@ Dynamic community-level metabolic modeling for fermentation kinetics and metabol
 1. COBRApy: https://github.com/opencobra/cobrapy
 2. MetaWRAP: https://github.com/bxlab/metaWRAP
 3. Seaborn statistical data visualization:https://seaborn.pydata.org/index.html
-### Citation
+## Citation
 Sizhe Qiu, Hong Zeng, Zhijie Yang, Wei-Lian Huang, Bei Wang, Aidong Yang. Dynamic community-level metabolic modeling for fermentation kinetics and metabolic interactions of the yogurt starter culture based on metagenomic analysis. Authorea. January 26, 2023.
 DOI: 10.22541/au.167475604.47358393/v1
