@@ -1,7 +1,7 @@
 # MetaStLbCom
 Dynamic community-level metabolic modeling for fermentation kinetics and metabolic interactions of the yogurt starter culture based on metagenomic analysis
 ## Workflow outline
-1. Metagenomic analysis
+1. Metagenomic analysis(scripts not in this repo)
 2. Genome scale metabolic model reconstruction
 3. Model refinement
 4. Model evaluation
