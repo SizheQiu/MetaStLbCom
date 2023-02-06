@@ -1,0 +1,132 @@
+﻿species,substrate,parameter,value,ref
+ST,EX_glc__D_e,vmax,35.883,https://doi.org/10.1002/bit.27565
+ST,EX_glc__D_e,vmin,1.29E+00,https://doi.org/10.1002/bit.27565
+ST,EX_glc__D_e,klach,0.752,https://doi.org/10.1002/bit.27565
+ST,EX_ala__L_e,vmax,0.1,https://doi.org/10.1002/bit.27565
+ST,EX_arg__L_e,vmax,0.118,https://doi.org/10.1002/bit.27565
+ST,EX_asn__L_e,vmax,0.292,https://doi.org/10.1002/bit.27565
+ST,EX_asp__L_e,vmax,0.24,https://doi.org/10.1002/bit.27565
+ST,EX_glu__L_e,vmax,0.173,https://doi.org/10.1002/bit.27565
+ST,EX_gln__L_e,vmax,0.08,https://doi.org/10.1002/bit.27565
+ST,EX_gly_e,vmax,0.08,https://doi.org/10.1002/bit.27565
+ST,EX_cys__L_e,vmax,0.1,https://doi.org/10.1002/bit.27565
+ST,EX_his__L_e,vmax,0.1,https://doi.org/10.1002/bit.27565
+ST,EX_ile__L_e,vmax,0.232,https://doi.org/10.1002/bit.27565
+ST,EX_leu__L_e,vmax,0.219,https://doi.org/10.1002/bit.27565
+ST,EX_lys__L_e,vmax,0.219,https://doi.org/10.1002/bit.27565
+ST,EX_met__L_e,vmax,0.1,default
+ST,EX_phe__L_e,vmax,0.116,https://doi.org/10.1002/bit.27565
+ST,EX_pro__L_e,vmax,0.1,https://doi.org/10.1002/bit.27565
+ST,EX_ser__L_e,vmax,0.238,https://doi.org/10.1002/bit.27565
+ST,EX_thr__L_e,vmax,0.01,https://doi.org/10.1002/bit.27565
+ST,EX_trp__L_e,vmax,0.138,https://doi.org/10.1002/bit.27565
+ST,EX_tyr__L_e,vmax,0.1,default
+ST,EX_val__L_e,vmax,0.2,https://doi.org/10.1002/bit.27565
+ST,EX_orn_e,vmax,0.1,default
+LB,EX_lcts_e,vmax,22,"estimated, https://doi.org/10.1002/bit.27565"
+LB,EX_lcts_e,vmin,0.124,estimated
+LB,EX_lcts_e,klach,0.237,estimated
+LB,EX_casein_e,vmax,1,default
+LB,EX_ala__L_e,vmax,0.1,default
+LB,EX_arg__L_e,vmax,0.118,default
+LB,EX_asn__L_e,vmax,0.292,default
+LB,EX_asp__L_e,vmax,0.24,default
+LB,EX_glu__L_e,vmax,0.173,default
+LB,EX_gln__L_e,vmax,0.08,default
+LB,EX_gly_e,vmax,0.08,default
+LB,EX_cys__L_e,vmax,0.1,default
+LB,EX_his__L_e,vmax,0.1,default
+LB,EX_ile__L_e,vmax,0.232,default
+LB,EX_leu__L_e,vmax,0.219,default
+LB,EX_lys__L_e,vmax,0.219,default
+LB,EX_met__L_e,vmax,0.1,default
+LB,EX_phe__L_e,vmax,0.116,default
+LB,EX_pro__L_e,vmax,0.1,default
+LB,EX_ser__L_e,vmax,0.238,default
+LB,EX_thr__L_e,vmax,0.01,default
+LB,EX_trp__L_e,vmax,0.138,default
+LB,EX_tyr__L_e,vmax,0.1,default
+LB,EX_val__L_e,vmax,0.2,default
+LB,EX_orn_e,vmax,0.1,default
+ST,EX_ala__L_e,Km,0.000509,PMID: 12107123
+ST,EX_arg__L_e,Km,0.000875,avg
+ST,EX_asn__L_e,Km,0.000875,avg
+ST,EX_asp__L_e,Km,0.000875,avg
+ST,EX_glu__L_e,Km,0.0002,PMID: 12107123
+ST,EX_gln__L_e,Km,0.000875,avg
+ST,EX_gly_e,Km,0.000875,avg
+ST,EX_cys__L_e,Km,0.000875,avg
+ST,EX_his__L_e,Km,0.0002,PMID: 12107123
+ST,EX_ile__L_e,Km,0.00093,PMID: 25547798
+ST,EX_leu__L_e,Km,0.00162,PMID: 25547798
+ST,EX_lys__L_e,Km,0.000875,avg
+ST,EX_met__L_e,Km,0.000875,avg
+ST,EX_phe__L_e,Km,0.000875,avg
+ST,EX_pro__L_e,Km,0.000875,avg
+ST,EX_ser__L_e,Km,0.000875,avg
+ST,EX_thr__L_e,Km,0.000875,avg
+ST,EX_trp__L_e,Km,0.000875,avg
+ST,EX_tyr__L_e,Km,0.000875,avg
+ST,EX_val__L_e,Km,0.00179,PMID: 25547798
+ST,EX_orn_e,Km,0.038,PMID: 10882037
+LB,EX_ala__L_e,Km,0.000509,PMID: 12107123
+LB,EX_arg__L_e,Km,0.000875,avg
+LB,EX_asn__L_e,Km,0.000875,avg
+LB,EX_asp__L_e,Km,0.000875,avg
+LB,EX_glu__L_e,Km,0.0002,PMID: 12107123
+LB,EX_gln__L_e,Km,0.000875,avg
+LB,EX_gly_e,Km,0.000875,avg
+LB,EX_cys__L_e,Km,0.000875,avg
+LB,EX_his__L_e,Km,0.0002,PMID: 12107123
+LB,EX_ile__L_e,Km,0.00093,PMID: 25547798
+LB,EX_leu__L_e,Km,0.00162,PMID: 25547798
+LB,EX_lys__L_e,Km,0.000875,avg
+LB,EX_met__L_e,Km,0.000875,avg
+LB,EX_phe__L_e,Km,0.000875,avg
+LB,EX_pro__L_e,Km,0.000875,avg
+LB,EX_ser__L_e,Km,0.000875,avg
+LB,EX_thr__L_e,Km,0.000875,avg
+LB,EX_trp__L_e,Km,0.000875,avg
+LB,EX_tyr__L_e,Km,0.000875,avg
+LB,EX_val__L_e,Km,0.00179,PMID: 25547798
+LB,EX_orn_e,Km,0.038,PMID: 10882037
+LB,EX_ala__L_e,klach,0.4,default
+LB,EX_arg__L_e,klach,0.235,default
+LB,EX_asn__L_e,klach,0.591,default
+LB,EX_asp__L_e,klach,0.321,default
+LB,EX_glu__L_e,klach,0.755,default
+LB,EX_gln__L_e,klach,0.5,default
+LB,EX_gly_e,klach,0.5,default
+LB,EX_cys__L_e,klach,0.45,default
+LB,EX_his__L_e,klach,0.4,default
+LB,EX_ile__L_e,klach,0.211,default
+LB,EX_leu__L_e,klach,0.534,default
+LB,EX_lys__L_e,klach,0.428,default
+LB,EX_met__L_e,klach,0.3,default
+LB,EX_phe__L_e,klach,0.229,default
+LB,EX_pro__L_e,klach,0.4,default
+LB,EX_ser__L_e,klach,0.21,default
+LB,EX_thr__L_e,klach,0.25,default
+LB,EX_trp__L_e,klach,0.358,default
+LB,EX_tyr__L_e,klach,0.05,default
+LB,EX_val__L_e,klach,0.1,default
+ST,EX_ala__L_e,klach,0.4,https://doi.org/10.1002/bit.27565
+ST,EX_arg__L_e,klach,0.235,https://doi.org/10.1002/bit.27565
+ST,EX_asn__L_e,klach,0.591,https://doi.org/10.1002/bit.27565
+ST,EX_asp__L_e,klach,0.321,https://doi.org/10.1002/bit.27565
+ST,EX_glu__L_e,klach,0.755,https://doi.org/10.1002/bit.27565
+ST,EX_gln__L_e,klach,0.5,https://doi.org/10.1002/bit.27565
+ST,EX_gly_e,klach,0.5,https://doi.org/10.1002/bit.27565
+ST,EX_cys__L_e,klach,0.45,https://doi.org/10.1002/bit.27565
+ST,EX_his__L_e,klach,0.4,https://doi.org/10.1002/bit.27565
+ST,EX_ile__L_e,klach,0.211,https://doi.org/10.1002/bit.27565
+ST,EX_leu__L_e,klach,0.534,https://doi.org/10.1002/bit.27565
+ST,EX_lys__L_e,klach,0.428,https://doi.org/10.1002/bit.27565
+ST,EX_met__L_e,klach,0.3,default
+ST,EX_phe__L_e,klach,0.229,https://doi.org/10.1002/bit.27565
+ST,EX_pro__L_e,klach,0.4,https://doi.org/10.1002/bit.27565
+ST,EX_ser__L_e,klach,0.21,https://doi.org/10.1002/bit.27565
+ST,EX_thr__L_e,klach,0.25,https://doi.org/10.1002/bit.27565
+ST,EX_trp__L_e,klach,0.358,https://doi.org/10.1002/bit.27565
+ST,EX_tyr__L_e,klach,0.05,default
+ST,EX_val__L_e,klach,0.1,https://doi.org/10.1002/bit.27565

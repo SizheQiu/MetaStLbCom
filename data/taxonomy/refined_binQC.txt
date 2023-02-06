@@ -1,0 +1,7 @@
+sample	bin	completeness	contamination	GC	lineage	N50	size
+s1	bin.1.strict	99.35	0.0	0.499	Lactobacillus	105080	1726517
+s1	bin.2.strict	98.72	1.959	0.383	Streptococcus	36183	2116431
+s2	bin.1.strict	96.90	1.965	0.388	Streptococcus	27623	2026727
+s2	bin.2.strict	99.35	0.0	0.499	Lactobacillus	126779	1718127
+s3	bin.1.orig	96.03	0.800	0.388	Streptococcus	31957	1773644
+s3	bin.2.strict	99.35	0.0	0.500	Lactobacillus	102274	1703584

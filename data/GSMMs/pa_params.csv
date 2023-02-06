@@ -1,0 +1,99 @@
+﻿species,rxn,param,unit,value,direction
+ST,LACZ,Activity,mmol/(g E·h),27960,1
+ST,GALKr,Activity,mmol/(g E·h),690,1
+ST,GALT,Activity,mmol/(g E·h),1020,1
+ST,GALUi,Activity,mmol/(g E·h),285.6,1
+ST,PGMT,Activity,mmol/(g E·h),1890,1
+ST,G1PP,Activity,mmol/(g E·h),11760,1
+ST,HEX1,Activity,mmol/(g E·h),9480,1
+ST,PGI,Activity,mmol/(g E·h),12756,1
+ST,PFK,Activity,mmol/(g E·h),11400,1
+ST,FBA,Activity,mmol/(g E·h),28620,1
+ST,FBP,Activity,mmol/(g E·h),6000,1
+ST,GAPD,Activity,mmol/(g E·h),2400,1
+ST,PGK,Activity,mmol/(g E·h),28800,-1
+ST,PGM,Activity,mmol/(g E·h),7440,-1
+ST,ENO,Activity,mmol/(g E·h),15600,1
+ST,PYK,Activity,mmol/(g E·h),3300,1
+ST,G1PACT,Activity,mmol/(g E·h),132,1
+ST,UAGDP,Activity,mmol/(g E·h),4537.8,1
+ST,ACCOAC,Activity,mmol/(g E·h),360,1
+ST,LDH_L,Activity,mmol/(g E·h),141000,-1
+ST,ACLS,Activity,mmol/(g E·h),496.8,1
+ST,KARA1,Activity,mmol/(g E·h),114,-1
+ST,DHAD1,Activity,mmol/(g E·h),3780,1
+ST,PFL,Activity,mmol/(g E·h),9600,1
+ST,PDH,Activity,mmol/(g E·h),1500,1
+ST,PTAr,Activity,mmol/(g E·h),428400,1
+ST,ACKr,Activity,mmol/(g E·h),65220,-1
+ST,ACALD,Activity,mmol/(g E·h),2916,1
+ST,ALATA_L,Activity,mmol/(g E·h),1000,-1
+ST,GLUDy,Activity,mmol/(g E·h),858,-1
+ST,SUCD1,Activity,mmol/(g E·h),15840,-1
+ST,FADRx2,Activity,mmol/(g E·h),5130,1
+ST,aa_uptake,Activity,mmol/(g E·h),1.992,1
+ST,aa_uptake,Km,mM,0.001,1
+ST,aa_uptake,klach,1/mM,0.1,1
+ST,aa_uptake,Vmax,mmol/(gDW·h),0.2,1
+ST,aa_uptake,Vmin,mmol/(gDW·h),0.0277,1
+ST,Growth,Activity,mmol/(g E·h),107.4,1
+ST,EX_lac__L_e,Activity,mmol/(g E·h),6360,1
+ST,EX_ac_e,Activity,mmol/(g E·h),6360,1
+ST,EX_lcts_e,Activity,mmol/(g E·h),540,-1
+ST,EX_lcts_e,klach,1/mM,0.1,1
+ST,EX_lcts_e,Activity_min,mmol/(g E·h),10,-1
+ST,EX_for_e,Vmax,mmol/(gDW·h),0.3,1
+ST,EX_for_e,Km,mM,15,1
+ST,PROLYSIS,Activity,mmol/(g E·h),2.918,1
+ST,PROLYSIS,klach,1/mM,0.1,1
+ST,PROLYSIS,Vmax,mmol/(gDW·h),0.091,1
+ST,PROLYSIS,Vmin,mmol/(gDW·h),0,1
+LB,PROLYSIS,Activity,mmol/(g E·h),10,1
+LB,PROLYSIS,klach,1/mM,0.1,1
+LB,PROLYSIS,Vmax,mmol/(gDW·h),0.653,1
+LB,PROLYSIS,Vmin,mmol/(gDW·h),0,1
+LB,LACZ,Activity,mmol/(g E·h),27960,1
+LB,GALKr,Activity,mmol/(g E·h),690,1
+LB,GALT,Activity,mmol/(g E·h),1020,1
+LB,GALUi,Activity,mmol/(g E·h),285.6,1
+LB,PGMT,Activity,mmol/(g E·h),1890,1
+LB,G1PP,Activity,mmol/(g E·h),11760,1
+LB,HEX1,Activity,mmol/(g E·h),9480,1
+LB,PGI,Activity,mmol/(g E·h),12756,1
+LB,PFK,Activity,mmol/(g E·h),11400,1
+LB,FBA,Activity,mmol/(g E·h),28620,1
+LB,FBP,Activity,mmol/(g E·h),6000,1
+LB,GAPD,Activity,mmol/(g E·h),2400,1
+LB,PGK,Activity,mmol/(g E·h),28800,-1
+LB,PGM,Activity,mmol/(g E·h),7440,-1
+LB,ENO,Activity,mmol/(g E·h),15600,1
+LB,PYK,Activity,mmol/(g E·h),3300,1
+LB,PYK2,Activity,mmol/(g E·h),3300,1
+LB,PYK3,Activity,mmol/(g E·h),3300,1
+LB,PYK4,Activity,mmol/(g E·h),3300,1
+LB,PYK5,Activity,mmol/(g E·h),3300,1
+LB,r0280,Activity,mmol/(g E·h),3300,1
+LB,G1PACT,Activity,mmol/(g E·h),132,1
+LB,UAGDP,Activity,mmol/(g E·h),4537.8,1
+LB,ACCOAC,Activity,mmol/(g E·h),360,1
+LB,LDH_L,Activity,mmol/(g E·h),141000,-1
+LB,PDH,Activity,mmol/(g E·h),1500,1
+LB,PTAr,Activity,mmol/(g E·h),428400,1
+LB,ACKr,Activity,mmol/(g E·h),65220,-1
+LB,ACALD,Activity,mmol/(g E·h),2916,1
+LB,MTHFC,Activity,mmol/(g E·h),1860,1
+LB,MTHFD,Activity,mmol/(g E·h),1872,1
+LB,MTHFD2i,Activity,mmol/(g E·h),1872,1
+LB,aa_uptake,Activity,mmol/(g E·h),53.06,1
+LB,aa_uptake,Km,mM,0.001,1
+LB,aa_uptake,klach,1/mM,0.1,1
+LB,aa_uptake,Vmax,mmol/(gDW·h),0.288,1
+LB,aa_uptake,Vmin,mmol/(gDW·h),0.09,1
+LB,Growth,Activity,mmol/(g E·h),107.4,1
+LB,EX_lac__L_e,Activity,mmol/(g E·h),6360,1
+LB,EX_ac_e,Activity,mmol/(g E·h),6360,1
+LB,EX_lcts_e,Activity,mmol/(g E·h),540,-1
+LB,EX_lcts_e,klach,1/mM,0.1,1
+LB,EX_lcts_e,Activity_min,mmol/(g E·h),16,-1
+LB,EX_for_e,Vmax,mmol/(gDW·h),0.3,1
+LB,EX_for_e,Km,mM,15,1

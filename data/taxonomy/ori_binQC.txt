@@ -1,0 +1,16 @@
+tool	completeness	contamination	GC	lineage	N50	size	binner
+concoct	98.21	2.396	0.383	Streptococcus	30957	2088515	binsC
+concoct	99.35	0.0	0.499	Lactobacillus	90891	1726370	binsC
+maxbin	99.74	10.94	0.386	Streptococcus	27453	2445732	binsB
+maxbin	98.70	0.0	0.502	Lactobacillus	90891	1707282	binsB
+metabat	83.76	0.0	0.508	Lactobacillus	104458	1119204	binsA
+metabat	52.00	0.145	0.399	Streptococcus	38369	797381	binsA
+concoct	99.35	0.0	0.499	Lactobacillus	95958	1721364	binsC
+concoct	97.52	2.343	0.389	Streptococcus	25377	1992666	binsC
+maxbin	98.70	0.129	0.501	Lactobacillus	95958	1733173	binsB
+metabat	51.71	0.0	0.399	Streptococcus	38366	815831	binsA
+metabat	70.12	0.0	0.508	Lactobacillus	107953	883212	binsA
+maxbin	99.63	11.33	0.387	Streptococcus	24504	2181221	binsB
+maxbin	99.35	3.336	0.483	Lactobacillus	56512	2018983	binsB
+metabat	81.81	0.0	0.508	Lactobacillus	106034	1053732	binsA
+metabat	53.16	0.072	0.397	Streptococcus	39276	855077	binsA
